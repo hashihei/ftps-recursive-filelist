@@ -1,0 +1,17 @@
+###
+### This file require the filename change "ftps.conf.org" to "ftps.conf" , before the running script.
+###
+
+[ftps]
+HOST = sample.localhost
+USER = anonymous
+PASS = anonymous
+FTP_LOGIN_DIR = /
+
+FTP_LIST_DIR = targetDirList.txt
+FTP_DEL_LIST_FILE = targetDelFileList.txt
+
+
+[system]
+LOGFILE = log.txt
+LOGLEVEL = logging.DEBUG
