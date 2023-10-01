@@ -16,6 +16,7 @@ import sys
 import logging
 import traceback
 
+
 #
 # define for FTP Class
 #
@@ -116,6 +117,7 @@ class ManuplateFTP():
             self.Output_Error(sys._getframe().f_code.co_name, e)
             return -1       
 
+
     def ftp_nlst(self,FILTER=""):
         try:
             nlst = self.ftp_session.nlst(FILTER)
@@ -124,6 +126,17 @@ class ManuplateFTP():
             #Other error.
             self.Output_Error(sys._getframe().f_code.co_name, e)
             return None               
+
+
+    def ftp_voidcmd(self,CMD):
+        try:
+            file = self.ftp_session.voidcmd(CMD)
+            return file
+        except Exception as e:
+            #Other error.
+            self.Output_Error(sys._getframe().f_code.co_name, e)
+            return None  
+        
 
     def ftp_delete(self,FileName):
         try:
@@ -153,4 +166,4 @@ class ManuplateFTP():
         except Exception as e:
             #Other error.
             self.Output_Error(sys._getframe().f_code.co_name, e)
-            return -1  
+            return -1

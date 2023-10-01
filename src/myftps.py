@@ -19,7 +19,7 @@ import traceback
 SECTION1 = 'ftps'
 SECTION2 = 'system'
 FOLDER_SIG = os.path.sep
-DEFAULT_CONF_PATH = '..' + FOLDER_SIG + 'etc' + FOLDER_SIG + 'ftps.conf'
+DEFAULT_CONF_PATH = 'etc' + FOLDER_SIG + 'ftps.conf'
 
 #
 # define for config read function.
@@ -68,10 +68,10 @@ def get_ftps_FTP_LOGIN_DIR(conf_path=DEFAULT_CONF_PATH):
 
     return get_config_value(conf_path, get_value)
 
-def get_ftps_FTP_DEL_LIST_DIR(conf_path=DEFAULT_CONF_PATH):
+def get_ftps_FTP_LIST_DIR(conf_path=DEFAULT_CONF_PATH):
 
     #setting get value
-    get_value = 'FTP_DEL_LIST_DIR'
+    get_value = 'FTP_LIST_DIR'
 
     return get_config_value(conf_path, get_value)
 

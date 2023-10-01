@@ -1,0 +1,640 @@
+INFO:__main__:2023-10-01 09:19:19.347594 program start.
+INFO:__main__:2023-10-01 09:20:17.642752 program start.
+INFO:__main__:2023-10-01 09:20:24.330129 program start.
+INFO:__main__:2023-10-01 09:23:53.983991 program start.
+INFO:__main__:2023-10-01 09:27:01.964126 program start.
+INFO:__main__:2023-10-01 09:29:29.532171 program start.
+INFO:__main__:2023-10-01 09:30:14.195988 program start.
+INFO:__main__:2023-10-01 09:30:32.199936 configuration load finish.
+INFO:__main__:2023-10-01 13:31:09.311397 program start.
+INFO:__main__:2023-10-01 13:31:09.327059 configuration load finish.
+INFO:__main__:2023-10-01 13:37:47.812285 program start.
+INFO:__main__:2023-10-01 13:37:47.830118 configuration load finish.
+INFO:__main__:2023-10-01 13:39:31.941026 program start.
+INFO:__main__:2023-10-01 13:39:31.959760 configuration load finish.
+INFO:__main__:2023-10-01 13:44:13.782349 program start.
+INFO:__main__:2023-10-01 13:44:13.790619 configuration load finish.
+INFO:__main__:2023-10-01 13:46:27.006628 program start.
+INFO:__main__:2023-10-01 13:46:27.014374 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 13:46:44.859704 ftp_mlsd Output_Error ('501 Option not supported.',)
+INFO:__main__:2023-10-01 13:50:10.908317 program start.
+INFO:__main__:2023-10-01 13:50:10.924333 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 13:50:15.345232 ftp_mlsd Output_Error ('500 Command not understood.',)
+INFO:__main__:2023-10-01 13:51:28.505403 program start.
+INFO:__main__:2023-10-01 13:51:28.513420 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 13:51:56.820089 ftp_mlsd Output_Error ('500 Command not understood.',)
+INFO:__main__:2023-10-01 14:04:11.966498 program start.
+INFO:__main__:2023-10-01 14:04:11.966498 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:06:48.887947 ftp_mlsd Output_Error ('550 The specified path is invalid. ',)
+INFO:__main__:2023-10-01 14:08:39.133456 program start.
+INFO:__main__:2023-10-01 14:08:39.141680 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:08:59.283939 ftp_mlsd Output_Error ('550 The specified path is invalid. ',)
+INFO:__main__:2023-10-01 14:17:01.205318 program start.
+INFO:__main__:2023-10-01 14:17:01.205318 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:17:16.546768 ftp_mlsd Output_Error ('550 Access is denied. ',)
+INFO:__main__:2023-10-01 14:20:30.366622 program start.
+INFO:__main__:2023-10-01 14:20:30.374628 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:20:31.919591 ftp_mlsd Output_Error ('500 Command not understood.',)
+INFO:__main__:2023-10-01 14:20:39.435536 program start.
+INFO:__main__:2023-10-01 14:20:39.451738 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:20:40.923089 ftp_mlsd Output_Error ('500 Command not understood.',)
+INFO:__main__:2023-10-01 14:20:58.239573 program start.
+INFO:__main__:2023-10-01 14:20:58.253953 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:21:00.088757 ftp_mlsd Output_Error ('500 Command not understood.',)
+INFO:__main__:2023-10-01 14:21:18.074856 program start.
+INFO:__main__:2023-10-01 14:21:18.091456 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:21:38.661758 ftp_mlsd Output_Error ('500 Command not understood.',)
+INFO:__main__:2023-10-01 14:22:03.119562 program start.
+INFO:__main__:2023-10-01 14:22:03.127706 configuration load finish.
+INFO:__main__:2023-10-01 14:22:38.189593 program start.
+INFO:__main__:2023-10-01 14:22:38.197646 configuration load finish.
+INFO:__main__:2023-10-01 14:24:22.157193 program start.
+INFO:__main__:2023-10-01 14:24:22.173864 configuration load finish.
+INFO:__main__:2023-10-01 14:24:52.657056 program start.
+INFO:__main__:2023-10-01 14:24:52.663317 configuration load finish.
+INFO:__main__:2023-10-01 14:28:47.600969 program start.
+INFO:__main__:2023-10-01 14:28:47.609294 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:29:01.611445 ftp_mlsd Output_Error ('150 Opening ASCII mode data connection.',)
+INFO:__main__:2023-10-01 14:30:28.756899 program start.
+INFO:__main__:2023-10-01 14:30:28.764921 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:30:36.031612 ftp_mlsd Output_Error ('501 Parameter not understood.',)
+INFO:__main__:2023-10-01 14:33:19.595045 program start.
+INFO:__main__:2023-10-01 14:33:19.603148 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:33:29.021937 ftp_mlsd Output_Error ('150 Opening ASCII mode data connection.',)
+INFO:__main__:2023-10-01 14:34:00.556772 program start.
+INFO:__main__:2023-10-01 14:34:00.565251 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:34:17.883898 ftp_mlsd Output_Error ('501 Invalid number of parameters.',)
+INFO:__main__:2023-10-01 14:35:08.563171 program start.
+INFO:__main__:2023-10-01 14:35:08.574507 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:35:14.723040 ftp_mlsd Output_Error ('501 Parameter not understood.',)
+INFO:__main__:2023-10-01 14:36:38.163990 program start.
+INFO:__main__:2023-10-01 14:36:38.179236 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:36:45.644822 ftp_mlsd Output_Error ('150 Opening ASCII mode data connection.',)
+INFO:__main__:2023-10-01 14:49:41.938352 program start.
+INFO:__main__:2023-10-01 14:49:41.945641 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 14:49:58.036336 ftp_mlsd Output_Error ('150 Opening ASCII mode data connection.',)
+INFO:__main__:2023-10-01 15:00:07.839238 program start.
+INFO:__main__:2023-10-01 15:00:07.845829 configuration load finish.
+INFO:__main__:2023-10-01 15:06:04.315946 program start.
+INFO:__main__:2023-10-01 15:06:04.320864 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 15:06:48.642771 ftp_mlsd Output_Error ('550 The system cannot find the file specified. ',)
+INFO:__main__:2023-10-01 15:07:17.109540 program start.
+INFO:__main__:2023-10-01 15:07:18.007289 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 15:07:20.967997 ftp_mlsd Output_Error ('550 The system cannot find the file specified. ',)
+INFO:__main__:2023-10-01 15:07:58.829834 program start.
+INFO:__main__:2023-10-01 15:07:58.840420 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 15:08:30.811365 ftp_mlsd Output_Error ('550 The system cannot find the file specified. ',)
+INFO:__main__:2023-10-01 15:09:03.255064 program start.
+INFO:__main__:2023-10-01 15:09:04.137837 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 15:09:18.414477 ftp_mlsd Output_Error ('550 The system cannot find the file specified. ',)
+INFO:__main__:2023-10-01 15:40:18.119762 program start.
+INFO:__main__:2023-10-01 15:40:18.124747 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 15:40:21.551793 Output_Error ("'str' object has no attribute 'args'",)
+INFO:ManuplateFTP.Class:None
+INFO:__main__:2023-10-01 15:50:54.025940 program start.
+INFO:__main__:2023-10-01 15:50:54.030988 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 15:54:33.413453 Output_Error ("'str' object has no attribute 'args'",)
+INFO:ManuplateFTP.Class:None
+INFO:ManuplateFTP.Class:2023-10-01 15:54:35.511210 ftp_mlsd Output_Error ('550 The system cannot find the file specified. ',)
+INFO:__main__:2023-10-01 16:01:23.246254 program start.
+INFO:__main__:2023-10-01 16:01:23.252709 configuration load finish.
+INFO:__main__:2023-10-01 16:03:03.097850 program start.
+INFO:__main__:2023-10-01 16:03:03.106164 configuration load finish.
+INFO:__main__:2023-10-01 16:57:50.146171 program start.
+INFO:__main__:2023-10-01 16:57:50.152433 configuration load finish.
+INFO:ManuplateFTP.Class:2023-10-01 16:57:53.991653 ftp_voidcmd Output_Error ('550 The system cannot find the file specified. ',)
+INFO:__main__:2023-10-01 16:59:20.840046 program start.
+INFO:__main__:2023-10-01 16:59:20.847966 configuration load finish.
+INFO:__main__:2023-10-01 17:02:18.389032 program start.
+INFO:__main__:2023-10-01 17:02:18.393483 configuration load finish.
+INFO:__main__:2023-10-01 17:03:58.278278 program start.
+INFO:__main__:2023-10-01 17:03:58.283247 configuration load finish.
+INFO:__main__:2023-10-01 17:04:25.861403 program start.
+INFO:__main__:2023-10-01 17:04:25.866327 configuration load finish.
+ERROR:__main__:2023-10-01 17:04:29.942210 writeLineToFile invalid mode: '2020-06-16 07:02:44'
+INFO:__main__:2023-10-01 17:05:51.654141 program start.
+INFO:__main__:2023-10-01 17:05:51.659554 configuration load finish.
+ERROR:__main__:2023-10-01 17:05:55.769355 writeLineToFile invalid mode: '2020-06-16 07:02:44'
+INFO:__main__:2023-10-01 17:08:36.690085 program start.
+INFO:__main__:2023-10-01 17:08:36.694019 configuration load finish.
+INFO:__main__:2023-10-01 17:42:30.586330 program start.
+INFO:__main__:2023-10-01 17:42:30.593218 configuration load finish.
+INFO:__main__:0.00014384349827387802 progress.
+INFO:__main__:0.00028768699654775604 progress.
+INFO:__main__:0.00043153049482163404 progress.
+INFO:__main__:0.0005753739930955121 progress.
+INFO:__main__:0.0007192174913693901 progress.
+INFO:__main__:0.0008630609896432681 progress.
+INFO:__main__:0.0010069044879171462 progress.
+INFO:__main__:0.0011507479861910242 progress.
+INFO:__main__:0.001294591484464902 progress.
+INFO:__main__:0.0014384349827387803 progress.
+INFO:__main__:0.0015822784810126582 progress.
+INFO:__main__:0.0017261219792865361 progress.
+INFO:__main__:2023-10-01 17:49:03.740241 program start.
+INFO:__main__:2023-10-01 17:49:03.745326 configuration load finish.
+INFO:__main__:2023-10-01 17:49:57.331380 program start.
+INFO:__main__:2023-10-01 17:49:57.336348 configuration load finish.
+INFO:__main__:0.014  percent progress.
+INFO:__main__:0.028  percent progress.
+INFO:__main__:0.043  percent progress.
+INFO:__main__:0.057  percent progress.
+INFO:__main__:0.071  percent progress.
+INFO:__main__:0.086  percent progress.
+INFO:__main__:0.1  percent progress.
+INFO:__main__:0.115  percent progress.
+INFO:__main__:0.129  percent progress.
+INFO:__main__:0.143  percent progress.
+INFO:__main__:0.158  percent progress.
+INFO:__main__:0.172  percent progress.
+INFO:__main__:0.186  percent progress.
+INFO:__main__:0.201  percent progress.
+INFO:__main__:0.215  percent progress.
+INFO:__main__:0.23  percent progress.
+INFO:__main__:0.244  percent progress.
+INFO:__main__:0.258  percent progress.
+INFO:__main__:0.273  percent progress.
+INFO:__main__:0.287  percent progress.
+INFO:__main__:0.302  percent progress.
+INFO:__main__:0.316  percent progress.
+INFO:__main__:3.639  percent progress.
+INFO:__main__:3.797  percent progress.
+INFO:__main__:0.304  percent progress.
+INFO:__main__:0.316  percent progress.
+INFO:__main__:0.328  percent progress.
+INFO:__main__:0.34  percent progress.
+INFO:__main__:0.352  percent progress.
+INFO:__main__:0.365  percent progress.
+INFO:__main__:0.377  percent progress.
+INFO:__main__:0.389  percent progress.
+INFO:__main__:0.401  percent progress.
+INFO:__main__:0.413  percent progress.
+INFO:__main__:0.425  percent progress.
+INFO:__main__:0.438  percent progress.
+INFO:__main__:0.45  percent progress.
+INFO:__main__:0.462  percent progress.
+INFO:__main__:0.474  percent progress.
+INFO:__main__:0.486  percent progress.
+INFO:__main__:0.499  percent progress.
+INFO:__main__:0.511  percent progress.
+INFO:__main__:0.523  percent progress.
+INFO:__main__:0.535  percent progress.
+INFO:__main__:0.547  percent progress.
+INFO:__main__:0.559  percent progress.
+INFO:__main__:0.572  percent progress.
+INFO:__main__:0.584  percent progress.
+INFO:__main__:0.596  percent progress.
+INFO:__main__:0.608  percent progress.
+INFO:__main__:0.304  percent progress.
+INFO:__main__:0.31  percent progress.
+INFO:__main__:0.316  percent progress.
+INFO:__main__:0.322  percent progress.
+INFO:__main__:0.328  percent progress.
+INFO:__main__:0.334  percent progress.
+INFO:__main__:0.34  percent progress.
+INFO:__main__:0.346  percent progress.
+INFO:__main__:0.352  percent progress.
+INFO:__main__:0.358  percent progress.
+INFO:__main__:0.364  percent progress.
+INFO:__main__:0.37  percent progress.
+INFO:__main__:0.376  percent progress.
+INFO:__main__:0.382  percent progress.
+INFO:__main__:0.388  percent progress.
+INFO:__main__:0.394  percent progress.
+INFO:__main__:0.4  percent progress.
+INFO:__main__:0.406  percent progress.
+INFO:__main__:0.411  percent progress.
+INFO:__main__:0.417  percent progress.
+INFO:__main__:0.423  percent progress.
+INFO:__main__:0.429  percent progress.
+INFO:__main__:0.435  percent progress.
+INFO:__main__:0.441  percent progress.
+INFO:__main__:0.447  percent progress.
+INFO:__main__:0.453  percent progress.
+INFO:__main__:0.459  percent progress.
+INFO:__main__:0.465  percent progress.
+INFO:__main__:0.471  percent progress.
+INFO:__main__:0.477  percent progress.
+INFO:__main__:0.483  percent progress.
+INFO:__main__:0.489  percent progress.
+INFO:__main__:0.495  percent progress.
+INFO:__main__:0.501  percent progress.
+INFO:__main__:0.507  percent progress.
+INFO:__main__:0.513  percent progress.
+INFO:__main__:0.519  percent progress.
+INFO:__main__:0.525  percent progress.
+INFO:__main__:0.531  percent progress.
+INFO:__main__:0.537  percent progress.
+INFO:__main__:0.543  percent progress.
+INFO:__main__:0.549  percent progress.
+INFO:__main__:0.555  percent progress.
+INFO:__main__:0.561  percent progress.
+INFO:__main__:0.567  percent progress.
+INFO:__main__:0.573  percent progress.
+INFO:__main__:0.579  percent progress.
+INFO:__main__:0.585  percent progress.
+INFO:__main__:0.591  percent progress.
+INFO:__main__:0.597  percent progress.
+INFO:__main__:0.603  percent progress.
+INFO:__main__:0.609  percent progress.
+INFO:__main__:0.614  percent progress.
+INFO:__main__:1.218  percent progress.
+INFO:__main__:1.23  percent progress.
+INFO:__main__:1.242  percent progress.
+INFO:__main__:1.254  percent progress.
+INFO:__main__:1.265  percent progress.
+INFO:__main__:1.277  percent progress.
+INFO:__main__:1.289  percent progress.
+INFO:__main__:1.3  percent progress.
+INFO:__main__:1.312  percent progress.
+INFO:__main__:1.324  percent progress.
+INFO:__main__:1.336  percent progress.
+INFO:__main__:1.347  percent progress.
+INFO:__main__:1.359  percent progress.
+INFO:__main__:1.371  percent progress.
+INFO:__main__:1.383  percent progress.
+INFO:__main__:1.394  percent progress.
+INFO:__main__:1.406  percent progress.
+INFO:__main__:1.418  percent progress.
+INFO:__main__:1.429  percent progress.
+INFO:__main__:1.441  percent progress.
+INFO:__main__:1.453  percent progress.
+INFO:__main__:1.465  percent progress.
+INFO:__main__:1.476  percent progress.
+INFO:__main__:1.488  percent progress.
+INFO:__main__:1.5  percent progress.
+INFO:__main__:1.511  percent progress.
+INFO:__main__:1.523  percent progress.
+INFO:__main__:0.225  percent progress.
+INFO:__main__:0.227  percent progress.
+INFO:__main__:0.228  percent progress.
+INFO:__main__:0.23  percent progress.
+INFO:__main__:0.232  percent progress.
+INFO:__main__:0.233  percent progress.
+INFO:__main__:0.235  percent progress.
+INFO:__main__:0.237  percent progress.
+INFO:__main__:0.239  percent progress.
+INFO:__main__:0.24  percent progress.
+INFO:__main__:0.242  percent progress.
+INFO:__main__:0.244  percent progress.
+INFO:__main__:0.245  percent progress.
+INFO:__main__:0.247  percent progress.
+INFO:__main__:0.249  percent progress.
+INFO:__main__:0.251  percent progress.
+INFO:__main__:0.252  percent progress.
+INFO:__main__:0.254  percent progress.
+INFO:__main__:0.256  percent progress.
+INFO:__main__:0.257  percent progress.
+INFO:__main__:0.259  percent progress.
+INFO:__main__:0.261  percent progress.
+INFO:__main__:0.263  percent progress.
+INFO:__main__:0.264  percent progress.
+INFO:__main__:0.266  percent progress.
+INFO:__main__:0.268  percent progress.
+INFO:__main__:0.27  percent progress.
+INFO:__main__:0.271  percent progress.
+INFO:__main__:0.273  percent progress.
+INFO:__main__:0.275  percent progress.
+INFO:__main__:0.276  percent progress.
+INFO:__main__:0.278  percent progress.
+INFO:__main__:0.28  percent progress.
+INFO:__main__:0.282  percent progress.
+INFO:__main__:0.283  percent progress.
+INFO:__main__:0.285  percent progress.
+INFO:__main__:0.287  percent progress.
+INFO:__main__:0.288  percent progress.
+INFO:__main__:0.29  percent progress.
+INFO:__main__:0.292  percent progress.
+INFO:__main__:0.294  percent progress.
+INFO:__main__:0.295  percent progress.
+INFO:__main__:0.297  percent progress.
+INFO:__main__:0.299  percent progress.
+INFO:__main__:0.3  percent progress.
+INFO:__main__:0.302  percent progress.
+INFO:__main__:0.304  percent progress.
+INFO:__main__:0.306  percent progress.
+INFO:__main__:0.307  percent progress.
+INFO:__main__:0.309  percent progress.
+INFO:__main__:0.311  percent progress.
+INFO:__main__:0.313  percent progress.
+INFO:__main__:0.314  percent progress.
+INFO:__main__:0.316  percent progress.
+INFO:__main__:0.318  percent progress.
+INFO:__main__:0.319  percent progress.
+INFO:__main__:0.321  percent progress.
+INFO:__main__:0.323  percent progress.
+INFO:__main__:0.325  percent progress.
+INFO:__main__:0.326  percent progress.
+INFO:__main__:0.328  percent progress.
+INFO:__main__:0.33  percent progress.
+INFO:__main__:0.331  percent progress.
+INFO:__main__:0.333  percent progress.
+INFO:__main__:0.335  percent progress.
+INFO:__main__:0.337  percent progress.
+INFO:__main__:0.338  percent progress.
+INFO:__main__:0.34  percent progress.
+INFO:__main__:0.342  percent progress.
+INFO:__main__:0.343  percent progress.
+INFO:__main__:0.345  percent progress.
+INFO:__main__:0.347  percent progress.
+INFO:__main__:0.349  percent progress.
+INFO:__main__:0.35  percent progress.
+INFO:__main__:0.352  percent progress.
+INFO:__main__:0.354  percent progress.
+INFO:__main__:0.356  percent progress.
+INFO:__main__:0.357  percent progress.
+INFO:__main__:0.359  percent progress.
+INFO:__main__:0.361  percent progress.
+INFO:__main__:0.362  percent progress.
+INFO:__main__:0.364  percent progress.
+INFO:__main__:0.366  percent progress.
+INFO:__main__:0.368  percent progress.
+INFO:__main__:0.369  percent progress.
+INFO:__main__:0.371  percent progress.
+INFO:__main__:0.373  percent progress.
+INFO:__main__:0.374  percent progress.
+INFO:__main__:0.376  percent progress.
+INFO:__main__:0.378  percent progress.
+INFO:__main__:0.38  percent progress.
+INFO:__main__:0.381  percent progress.
+INFO:__main__:0.383  percent progress.
+INFO:__main__:0.385  percent progress.
+INFO:__main__:0.386  percent progress.
+INFO:__main__:0.388  percent progress.
+INFO:__main__:0.39  percent progress.
+INFO:__main__:0.392  percent progress.
+INFO:__main__:0.393  percent progress.
+INFO:__main__:0.395  percent progress.
+INFO:__main__:0.397  percent progress.
+INFO:__main__:0.399  percent progress.
+INFO:__main__:0.4  percent progress.
+INFO:__main__:0.402  percent progress.
+INFO:__main__:0.404  percent progress.
+INFO:__main__:0.405  percent progress.
+INFO:__main__:0.407  percent progress.
+INFO:__main__:0.409  percent progress.
+INFO:__main__:0.411  percent progress.
+INFO:__main__:0.412  percent progress.
+INFO:__main__:0.414  percent progress.
+INFO:__main__:0.416  percent progress.
+INFO:__main__:0.417  percent progress.
+INFO:__main__:0.419  percent progress.
+INFO:__main__:0.421  percent progress.
+INFO:__main__:0.423  percent progress.
+INFO:__main__:0.424  percent progress.
+INFO:__main__:0.426  percent progress.
+INFO:__main__:0.428  percent progress.
+INFO:__main__:0.429  percent progress.
+INFO:__main__:0.431  percent progress.
+INFO:__main__:0.433  percent progress.
+INFO:__main__:0.435  percent progress.
+INFO:__main__:0.436  percent progress.
+INFO:__main__:0.438  percent progress.
+INFO:__main__:0.44  percent progress.
+INFO:__main__:0.442  percent progress.
+INFO:__main__:0.443  percent progress.
+INFO:__main__:0.445  percent progress.
+INFO:__main__:0.447  percent progress.
+INFO:__main__:0.448  percent progress.
+INFO:__main__:0.45  percent progress.
+INFO:__main__:0.452  percent progress.
+INFO:__main__:0.454  percent progress.
+INFO:__main__:0.455  percent progress.
+INFO:__main__:0.457  percent progress.
+INFO:__main__:0.459  percent progress.
+INFO:__main__:0.46  percent progress.
+INFO:__main__:0.462  percent progress.
+INFO:__main__:0.464  percent progress.
+INFO:__main__:0.466  percent progress.
+INFO:__main__:0.467  percent progress.
+INFO:__main__:0.469  percent progress.
+INFO:__main__:0.471  percent progress.
+INFO:__main__:0.472  percent progress.
+INFO:__main__:0.474  percent progress.
+INFO:__main__:0.476  percent progress.
+INFO:__main__:0.478  percent progress.
+INFO:__main__:0.479  percent progress.
+INFO:__main__:0.481  percent progress.
+INFO:__main__:0.483  percent progress.
+INFO:__main__:0.485  percent progress.
+INFO:__main__:0.486  percent progress.
+INFO:__main__:0.488  percent progress.
+INFO:__main__:0.49  percent progress.
+INFO:__main__:0.491  percent progress.
+INFO:__main__:0.493  percent progress.
+INFO:__main__:0.495  percent progress.
+INFO:__main__:0.497  percent progress.
+INFO:__main__:0.498  percent progress.
+INFO:__main__:0.5  percent progress.
+INFO:__main__:0.502  percent progress.
+INFO:__main__:0.503  percent progress.
+INFO:__main__:0.505  percent progress.
+INFO:__main__:0.507  percent progress.
+INFO:__main__:0.509  percent progress.
+INFO:__main__:0.51  percent progress.
+INFO:__main__:0.512  percent progress.
+INFO:__main__:0.514  percent progress.
+INFO:__main__:0.515  percent progress.
+INFO:__main__:0.517  percent progress.
+INFO:__main__:0.519  percent progress.
+INFO:__main__:0.521  percent progress.
+INFO:__main__:0.522  percent progress.
+INFO:__main__:0.524  percent progress.
+INFO:__main__:0.526  percent progress.
+INFO:__main__:0.527  percent progress.
+INFO:__main__:0.529  percent progress.
+INFO:__main__:0.531  percent progress.
+INFO:__main__:0.533  percent progress.
+INFO:__main__:0.534  percent progress.
+INFO:__main__:0.536  percent progress.
+INFO:__main__:0.538  percent progress.
+INFO:__main__:0.54  percent progress.
+INFO:__main__:1.12  percent progress.
+INFO:__main__:1.123  percent progress.
+INFO:__main__:1.127  percent progress.
+INFO:__main__:1.13  percent progress.
+INFO:__main__:1.134  percent progress.
+INFO:__main__:1.137  percent progress.
+INFO:__main__:1.141  percent progress.
+INFO:__main__:1.144  percent progress.
+INFO:__main__:1.148  percent progress.
+INFO:__main__:1.152  percent progress.
+INFO:__main__:1.155  percent progress.
+INFO:__main__:1.159  percent progress.
+INFO:__main__:1.162  percent progress.
+INFO:__main__:1.166  percent progress.
+INFO:__main__:1.169  percent progress.
+INFO:__main__:1.173  percent progress.
+INFO:__main__:1.176  percent progress.
+INFO:__main__:1.18  percent progress.
+INFO:__main__:1.184  percent progress.
+INFO:__main__:1.187  percent progress.
+INFO:__main__:1.191  percent progress.
+INFO:__main__:1.194  percent progress.
+INFO:__main__:1.198  percent progress.
+INFO:__main__:1.201  percent progress.
+INFO:__main__:1.205  percent progress.
+INFO:__main__:1.208  percent progress.
+INFO:__main__:1.212  percent progress.
+INFO:__main__:1.216  percent progress.
+INFO:__main__:1.219  percent progress.
+INFO:__main__:1.223  percent progress.
+INFO:__main__:1.226  percent progress.
+INFO:__main__:1.23  percent progress.
+INFO:__main__:1.233  percent progress.
+INFO:__main__:1.237  percent progress.
+INFO:__main__:1.24  percent progress.
+INFO:__main__:1.244  percent progress.
+INFO:__main__:1.248  percent progress.
+INFO:__main__:1.251  percent progress.
+INFO:__main__:1.255  percent progress.
+INFO:__main__:1.258  percent progress.
+INFO:__main__:1.262  percent progress.
+INFO:__main__:1.265  percent progress.
+INFO:__main__:1.269  percent progress.
+INFO:__main__:1.272  percent progress.
+INFO:__main__:1.276  percent progress.
+INFO:__main__:1.28  percent progress.
+INFO:__main__:1.283  percent progress.
+INFO:__main__:1.287  percent progress.
+INFO:__main__:1.29  percent progress.
+INFO:__main__:1.294  percent progress.
+INFO:__main__:1.297  percent progress.
+INFO:__main__:1.301  percent progress.
+INFO:__main__:1.304  percent progress.
+INFO:__main__:1.308  percent progress.
+INFO:__main__:1.312  percent progress.
+INFO:__main__:1.315  percent progress.
+INFO:__main__:1.319  percent progress.
+INFO:__main__:1.322  percent progress.
+INFO:__main__:1.326  percent progress.
+INFO:__main__:1.329  percent progress.
+INFO:__main__:1.333  percent progress.
+INFO:__main__:1.336  percent progress.
+INFO:__main__:1.34  percent progress.
+INFO:__main__:1.344  percent progress.
+INFO:__main__:1.347  percent progress.
+INFO:__main__:1.351  percent progress.
+INFO:__main__:1.354  percent progress.
+INFO:__main__:1.358  percent progress.
+INFO:__main__:1.361  percent progress.
+INFO:__main__:1.365  percent progress.
+INFO:__main__:1.368  percent progress.
+INFO:__main__:1.372  percent progress.
+INFO:__main__:1.376  percent progress.
+INFO:__main__:1.379  percent progress.
+INFO:__main__:1.383  percent progress.
+INFO:__main__:1.386  percent progress.
+INFO:__main__:1.39  percent progress.
+INFO:__main__:1.393  percent progress.
+INFO:__main__:1.397  percent progress.
+INFO:__main__:1.4  percent progress.
+INFO:__main__:1.404  percent progress.
+INFO:__main__:1.408  percent progress.
+INFO:__main__:1.411  percent progress.
+INFO:__main__:1.415  percent progress.
+INFO:__main__:1.418  percent progress.
+INFO:__main__:1.422  percent progress.
+INFO:__main__:1.425  percent progress.
+INFO:__main__:1.429  percent progress.
+INFO:__main__:1.432  percent progress.
+INFO:__main__:1.318  percent progress.
+INFO:__main__:1.321  percent progress.
+INFO:__main__:1.324  percent progress.
+INFO:__main__:1.327  percent progress.
+INFO:__main__:1.331  percent progress.
+INFO:__main__:1.334  percent progress.
+INFO:__main__:1.337  percent progress.
+INFO:__main__:1.34  percent progress.
+INFO:__main__:1.344  percent progress.
+INFO:__main__:1.347  percent progress.
+INFO:__main__:1.35  percent progress.
+INFO:__main__:1.353  percent progress.
+INFO:__main__:1.357  percent progress.
+INFO:__main__:1.36  percent progress.
+INFO:__main__:1.363  percent progress.
+INFO:__main__:1.366  percent progress.
+INFO:__main__:1.37  percent progress.
+INFO:__main__:1.373  percent progress.
+INFO:__main__:1.376  percent progress.
+INFO:__main__:1.38  percent progress.
+INFO:__main__:1.383  percent progress.
+INFO:__main__:1.386  percent progress.
+INFO:__main__:1.389  percent progress.
+INFO:__main__:1.393  percent progress.
+INFO:__main__:1.396  percent progress.
+INFO:__main__:1.399  percent progress.
+INFO:__main__:1.402  percent progress.
+INFO:__main__:1.406  percent progress.
+INFO:__main__:1.409  percent progress.
+INFO:__main__:1.412  percent progress.
+INFO:__main__:1.415  percent progress.
+INFO:__main__:1.419  percent progress.
+INFO:__main__:1.422  percent progress.
+INFO:__main__:1.425  percent progress.
+INFO:__main__:1.428  percent progress.
+INFO:__main__:1.432  percent progress.
+INFO:__main__:1.435  percent progress.
+INFO:__main__:1.438  percent progress.
+INFO:__main__:1.441  percent progress.
+INFO:__main__:1.445  percent progress.
+INFO:__main__:1.448  percent progress.
+INFO:__main__:1.451  percent progress.
+INFO:__main__:1.455  percent progress.
+INFO:__main__:1.458  percent progress.
+INFO:__main__:1.461  percent progress.
+INFO:__main__:1.464  percent progress.
+INFO:__main__:1.468  percent progress.
+INFO:__main__:1.471  percent progress.
+INFO:__main__:1.474  percent progress.
+INFO:__main__:1.477  percent progress.
+INFO:__main__:1.481  percent progress.
+INFO:__main__:1.484  percent progress.
+INFO:__main__:1.487  percent progress.
+INFO:__main__:1.49  percent progress.
+INFO:__main__:1.494  percent progress.
+INFO:__main__:1.497  percent progress.
+INFO:__main__:1.5  percent progress.
+INFO:__main__:1.503  percent progress.
+INFO:__main__:1.507  percent progress.
+INFO:__main__:1.51  percent progress.
+INFO:__main__:1.513  percent progress.
+INFO:__main__:1.517  percent progress.
+INFO:__main__:1.52  percent progress.
+INFO:__main__:1.523  percent progress.
+INFO:__main__:1.526  percent progress.
+INFO:__main__:1.53  percent progress.
+INFO:__main__:1.533  percent progress.
+INFO:__main__:1.536  percent progress.
+INFO:__main__:1.539  percent progress.
+INFO:__main__:1.543  percent progress.
+INFO:__main__:1.546  percent progress.
+INFO:__main__:1.549  percent progress.
+INFO:__main__:1.552  percent progress.
+INFO:__main__:1.556  percent progress.
+INFO:__main__:1.559  percent progress.
+INFO:__main__:1.562  percent progress.
+INFO:__main__:1.565  percent progress.
+INFO:__main__:1.569  percent progress.
+INFO:__main__:1.572  percent progress.
+INFO:__main__:1.575  percent progress.
+INFO:__main__:1.579  percent progress.
+INFO:__main__:1.582  percent progress.
+INFO:__main__:1.585  percent progress.
+INFO:__main__:1.588  percent progress.
+INFO:__main__:1.592  percent progress.
+INFO:__main__:1.595  percent progress.
+INFO:__main__:1.598  percent progress.
+INFO:__main__:1.601  percent progress.
+INFO:__main__:1.605  percent progress.
+INFO:__main__:1.608  percent progress.
+INFO:__main__:1.611  percent progress.
+INFO:__main__:1.614  percent progress.
+INFO:__main__:1.618  percent progress.
+INFO:__main__:1.621  percent progress.
+INFO:__main__:1.624  percent progress.
+INFO:__main__:1.627  percent progress.
+INFO:__main__:1.631  percent progress.
+INFO:__main__:0.8  percent progress.
+INFO:__main__:0.802  percent progress.
+INFO:__main__:0.803  percent progress.
