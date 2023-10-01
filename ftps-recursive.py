@@ -93,7 +93,7 @@ def writeLineToFile(file_path, data_string, select_mode="a"):
     try:
         content_list = []
 
-        with open(file_path, mode=select_mode,newline='\n') as writer:
+        with open(file_path, mode=select_mode) as writer:
             writer.writelines(data_string)
 
     except Exception as e:
@@ -173,7 +173,7 @@ if __name__ == '__main__':
                             session.ftp_cwd(directory_name)
                             time_str = session.ftp_voidcmd("MDTM " + file_name)[4:].strip()
                             time = dateutil.parser.parse(time_str)
-                            writeLineToFile("filelist.txt", directory_name + "/" + file_name + "," + str(time),"a")
+                            writeLineToFile("filelist.txt", directory_name + "/" + file_name + "," + str(time) + "\n","a")
                             session.ftp_quit()
                         count = count + 1
     elif args.command == 'del':
