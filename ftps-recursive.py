@@ -140,6 +140,9 @@ if __name__ == '__main__':
         logger_main.error('%s FTP Connection error.', datetime.datetime.now())
         sys.exit(1)
 
+    #
+    #command list section
+    #
     if args.command == 'list':
 
         #mlsd
@@ -176,6 +179,9 @@ if __name__ == '__main__':
                     count = count + 1
                     logger_main.info('%s  percent progress.', str(math.floor(count / (len(dir_list)*100000))/1000))
 
+    #
+    # command delete option section
+    #
     elif args.command == 'del':
         del_file_list = getLineFromFile(FTP_LIST_DEL_FILE)
 
