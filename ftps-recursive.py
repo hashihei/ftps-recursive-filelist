@@ -165,7 +165,6 @@ if __name__ == '__main__':
 
                     #file listup
                     for file_name in files_name:
-                        logger_main.info('%s  percent progress.', str(math.floor(count / (len(dir_list) * len(files_name))*100000)/1000))
                         if session.Create_SessionFTPS(FTP_HOST,FTP_ACCOUNT,FTP_PASSWORD,True) < 0 :
                             logger_main.error('%s FTP Connection error.', datetime.datetime.now())
                             sys.exit(1)
@@ -175,7 +174,8 @@ if __name__ == '__main__':
                             time = dateutil.parser.parse(time_str)
                             writeLineToFile("filelist.txt", directory_name + "/" + file_name + "," + str(time) + "\n","a")
                             session.ftp_quit()
-                        count = count + 1
+                    count = count + 1
+                    logger_main.info('%s  percent progress.', str(math.floor(count / (len(dir_list)*100000))/1000))
     elif args.command == 'del':
         None
     else:
