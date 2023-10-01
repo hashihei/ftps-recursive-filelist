@@ -162,3 +162,5 @@ cython_debug/
 ftps.conf
 targetDelFileList.txt
 targetDirList.txt
+filelist.txt
+log.txt
