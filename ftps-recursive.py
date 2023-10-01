@@ -127,9 +127,8 @@ if __name__ == '__main__':
     FTP_DIR = myftps.get_ftps_FTP_LOGIN_DIR(CONFIG_FILE)
 
     #get file candidate list
-    FTP_LIST_DIR, FTP_LIST_FILE = get_ftp_target_list(CONFIG_FILE)
+    FTP_LIST_DIR, FTP_LIST_DEL_FILE = get_ftp_target_list(CONFIG_FILE)
     FTP_LIST_DIR = WORKDIR + FOLDER_SIG + FTP_LIST_DIR
-    FTP_LIST_FILE = WORKDIR + FOLDER_SIG + FTP_LIST_FILE
 
     logger_main.info('%s configuration load finish.' % datetime.datetime.now())
         
@@ -176,8 +175,17 @@ if __name__ == '__main__':
                             session.ftp_quit()
                     count = count + 1
                     logger_main.info('%s  percent progress.', str(math.floor(count / (len(dir_list)*100000))/1000))
+
     elif args.command == 'del':
-        None
+        del_file_list = getLineFromFile(FTP_LIST_DEL_FILE)
+
+        for del_file in del_file_list:
+            if session.Create_SessionFTPS(FTP_HOST,FTP_ACCOUNT,FTP_PASSWORD,True) < 0 :
+                logger_main.error('%s FTP Connection error.', datetime.datetime.now())
+                sys.exit(1)
+            else:
+                session.ftp_delete(del_file)
+                logger_main.info('%s is deleted.', del_file)
     else:
         logger_main.error('args error , please add option list or del.')
     
