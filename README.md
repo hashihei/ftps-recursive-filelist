@@ -8,8 +8,8 @@
 * python-dateutil ( pip install -r requirements.txt)
 
 ### command
-* list up file list and create date.
-  ftps-recursive.py list
-
-* delete file from filelist (file full path)
-  ftps-recursive.py del
+* list up file list and create date.  
+  ftps-recursive.py list  
+  
+* delete file from filelist (file full path)  
+  ftps-recursive.py del  
