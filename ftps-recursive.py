@@ -81,7 +81,7 @@ def getLineFromFile(conf_path):
         for line in open(conf_path,'r',encoding='utf-8_sig'):
             if line == '':
                 pass
-            content_list.append(line)
+            content_list.append(line.strip())
 
         return content_list
     except Exception as e:
